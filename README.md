@@ -1,7 +1,7 @@
 ### Hey!!! I'm Alessia Casado.
 
 
-- 🌱 I’m currently learning Java, SpringBoot
+- 🌱 I’m currently learning Java, Spring Boot
 - ⚡ Fun fact: I don't have a fun fact 🤪
 
 <div align="center">
