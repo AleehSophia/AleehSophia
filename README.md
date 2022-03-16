@@ -2,7 +2,6 @@
 
 
 - 🌱 I’m currently learning Java, Spring Boot
-- ⚡ Fun fact: I don't have a fun fact 🤪
 
 <div align="center">
   <a href="https://github.com/AleehSophia">
