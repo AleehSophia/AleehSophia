@@ -1,7 +1,7 @@
 ### Hey!!! I'm Alessia Casado.
 
 
-- 🌱 I’m currently learning Java, Spring Boot
+- 🌱 I’m currently learning JS, HTML, CSS, Bootcamp REACT
 
 <div align="center">
   <a href="https://github.com/AleehSophia">
