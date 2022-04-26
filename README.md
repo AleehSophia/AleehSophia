@@ -1,7 +1,7 @@
 ### Hey!!! I'm Alessia Casado.
 
 
-- 🌱 I’m currently learning Microservices, JS, HTML, CSS, Bootcamp REACT
+- 🌱 I’m currently learning Microservices, JS, HTML, CSS, Bootcamp REACT, Hiring Coders #3
 
 <div align="center">
   <a href="https://github.com/AleehSophia">
