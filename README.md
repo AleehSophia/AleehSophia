@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=blue" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=ff69b4" alt="Profile views" /> </p>
 
 ### Hey!!! I'm Alessia.
 
