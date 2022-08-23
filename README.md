@@ -3,7 +3,8 @@
 ### Hey!!! I'm Alessia.
 
 
-- 🌱 I’m currently learning Microservices, JS, HTML, CSS, Bootcamp REACT, Hiring Coders #3
+- 🌱 I’m currently learning Microservices, JS, HTML, CSS, Bootcamp REACT
+- ✨ Fun fact: When I participated in Hiring Coders 2022, a programming training, I went to finals and me and my team, DREAMSCAPE, won the 1st place with the best project.
 
 <div align="center">
   <a href="https://github.com/AleehSophia">
@@ -12,7 +13,8 @@
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="ale-Java" height="80" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-   <img align="center" alt="ale-Spring" height="100" width="100" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+   <img align="center" alt="ale-Spring" height="100" width="100"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
+  <img align="center" alt="ale-vtex" height="100" width="120" src="https://user-images.githubusercontent.com/104858887/183300217-6a364880-ce71-4d4b-8ac5-50011c718542.svg" />
 </div>   
   
 ##
