@@ -4,7 +4,7 @@
 
 
 - 📚💻 I’m currently learning Microservices, JS, HTML, CSS, Bootcamp REACT
-- ✨ Fun fact: When I participated in Hiring Coders 2022, a programming training, I went to finals and me and my team, DREAMSCAPE, won the 1st place with the best project.
+- ✨ Fun fact: When I participated in Hiring Coders 2022, a programming training, I went to the finals and me and my team, DREAMSCAPE, won the 1st place with the best project.
 
 <div align="center">
   <a href="https://github.com/AleehSophia">
