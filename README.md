@@ -18,10 +18,6 @@
   <img align="center" alt="ale-vtex" height="100" width="120" src="https://user-images.githubusercontent.com/104858887/183300217-6a364880-ce71-4d4b-8ac5-50011c718542.svg" />
 </div>   
   
-##
-
-<div>  
-  <a href="https://www.linkedin.com/in/alessia-casado-10838b205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>  
+## 
   
 ![Snake animation](https://github.com/AleehSophia/AleehSophia/blob/output/github-contribution-grid-snake.svg)  
