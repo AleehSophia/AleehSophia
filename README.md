@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=ff69b4" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=ff69b4" alt="Profile views" /> </p>
 
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 
