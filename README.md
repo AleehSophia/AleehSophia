@@ -5,7 +5,7 @@
 ### Hey!!! I'm Alessia.
 
 
-📚💻 I’m currently learning Microservices, databases SQL and NOSQL, JS, HTML, CSS, React. <br>
+📚💻 I’m currently learning Microservices, databases SQL and NoSQL, JS, HTML, CSS, React. <br>
 
 ✨ **Fun fact:** When I participated in Hiring Coders 2022, a programming training, I went to the finals and me and my team, DREAMSCAPE, won the 1st place with the best project.
 
