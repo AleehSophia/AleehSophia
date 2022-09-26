@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 
-### Hey!!! Welcome to my git.
+### Hey!!! Welcome to my GIT.
 
 
 📚💻 I’m currently learning Microservices, databases SQL and NoSQL, JS, HTML, CSS, React. <br>
