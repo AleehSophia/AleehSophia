@@ -35,7 +35,7 @@
 <a href="https://www.leetcode.com/alessiacasado" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alessiacasado" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alessia-casado/" target="blank">
+<a href="https://linkedin.com/in//alessia-casado/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alessia-casado/" height="30" width="40" />
 </a>
   
