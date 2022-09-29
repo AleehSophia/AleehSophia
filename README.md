@@ -16,28 +16,32 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/AleehSophia">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AleehSophia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleehSophia&layout=compact&langs_count=7&theme=dracula"/>
+  <div align="center">
+    <a href="https://github.com/AleehSophia">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AleehSophia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleehSophia&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+   <div style="display: inline_block"><br>
+    <img align="center" alt="ale-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+     <img align="center" alt="ale-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
+     <img align="center" alt="ale-Git" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="ale-vtex" height="60" width="80" src="https://user-images.githubusercontent.com/104858887/183300217-6a364880-ce71-4d4b-8ac5-50011c718542.svg" />
+  </div>
 </div>
- <div style="display: inline_block"><br>
-  <img align="center" alt="ale-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-   <img align="center" alt="ale-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
-   <img align="center" alt="ale-Git" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="ale-vtex" height="60" width="80" src="https://user-images.githubusercontent.com/104858887/183300217-6a364880-ce71-4d4b-8ac5-50011c718542.svg" />
-</div>  
 
 ##
-<h4>Connect with me </h4>
-<a href="https://www.beecrowd.com.br/judge/pt/profile/609833" target="blank">
- <img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Alessia-Casado" height="40" width="40" />
-</a>
-<a href="https://www.leetcode.com/alessiacasado" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alessiacasado" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in//alessia-casado/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alessia-casado/" height="30" width="40" />
-</a>
+<div align="center">
+  <h4>Connect with me </h4>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/609833" target="blank">
+   <img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-Alessia-Casado" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/alessiacasado" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alessiacasado" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in//alessia-casado/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alessia-casado/" height="30" width="40" />
+  </a>
+</div>
   
 ## 
   
