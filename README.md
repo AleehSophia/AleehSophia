@@ -2,12 +2,12 @@
 
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 
-### Hey!!! Welcome to my GIT.
+### Hey!!! Welcome to my github.
 
 
 📚💻 I’m currently learning Microservices, databases SQL and NoSQL, JS, HTML, CSS, React. <br>
 
-✨ **Fun fact:** When I participated in Hiring Coders 2022, a programming training, I went to the finals and me and my team, DREAMSCAPE, won the 1st place with the best project. 
+✨ **Fun fact:** I participated in the Hiring Coders 2022, a programming training. My team and I (Dreamscape), got to the finals and won the 1st place with the best project. 
 <a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"> 
   <img align="center" src="https://img.shields.io/badge/-Click-df6d74" />
 </a>
