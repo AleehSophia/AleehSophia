@@ -11,6 +11,9 @@
 <a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"> 
   <img align="center" src="https://img.shields.io/badge/-Click-df6d74" />
 </a>
+<br>
+<br>
+<a href="https://github.com/AleehSophia/technical-books">:open_book:List of read programming books</a>
 
 <br>
 <br>
