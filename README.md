@@ -22,7 +22,7 @@
   <div align="center">
     <a href="https://github.com/AleehSophia">
     <img decoding="async" loading="lazy" height="170em" src="https://github-readme-stats-74zg.vercel.app/api?username=AleehSophia&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=AleehSophia&layout=compact&langs_count=7&theme=onedark"/>
+    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=AleehSophia&layout=compact&langs_count=10&theme=onedark"/>
   </div>
    <div style="display: inline_block"><br>
     <img align="center" alt="ale-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
