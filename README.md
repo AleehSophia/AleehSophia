@@ -6,12 +6,12 @@
 
 - 💻 I’m currently studying Software Analysis and Development at <a href="https://www.instagram.com/unisanta_oficial/">Unisanta</a>.
 - ⚙️ I know a little of Java, C, Spring Boot, Git, Shell, VTEX IO and sometimes I adventure myself into HTML, JavaScript and CSS.
+- 📖 <a href="https://github.com/AleehSophia/technical-books">List of read programming books</a>
 
 ✨ **Fun facts:** 
 - 👩‍💻I participated in the Hiring Coders 2022, a programming training. My team and I (Dreamscape), got to the finals and won the 1st place with the best project. 
 <a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"><img align="center" src="https://img.shields.io/badge/-Click-blueviolet" /> </a><br>
 - 🏊🏻‍♀️ I participated in the <a href="https://github.com/AleehSophia/42SP-piscine">C Piscine</a> at <a href="https://www.42sp.org.br/">42 São Paulo</a> in 2023 February/March.
-- 📖 <a href="https://github.com/AleehSophia/technical-books">List of read programming books</a>
 <br>
 <div align="center">
   <div align="center">
