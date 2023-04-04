@@ -12,16 +12,14 @@
 <a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"><img align="center" src="https://img.shields.io/badge/-Click-blueviolet" /> </a><br>
 - 🏊🏻‍♀️ I participated in the <a href="https://github.com/AleehSophia/42SP-piscine">C Piscine</a> at <a href="https://www.42sp.org.br/">42 São Paulo</a> in 2023 February/March.
 - 📖 <a href="https://github.com/AleehSophia/technical-books">List of read programming books</a>
-
-<!--
-<br>
 <br>
 <div align="center">
   <div align="center">
     <a href="https://github.com/AleehSophia">
-    <img decoding="async" loading="lazy" height="170em" src="https://github-readme-stats-74zg.vercel.app/api?username=AleehSophia&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=AleehSophia&layout=compact&langs_count=10&theme=onedark"/>
+    <img decoding="async" loading="lazy" height="170em" src="https://github-readme-stats-74zg.vercel.app/api?username=AleehSophia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=AleehSophia&layout=compact&langs_count=10&theme=tokyonight"/>
   </div>
+<!--
    <div style="display: inline_block"><br>
     <img align="center" alt="ale-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
      <img align="center" alt="ale-c" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
