@@ -5,17 +5,19 @@
 ### Hey!!! Welcome to my github.
 
 
-📚💻 I’m currently learning Microservices, databases SQL and NoSQL, JS, HTML, CSS, React. <br>
+📚💻 I’m currently studying Software Analysis and Development at <a href="https://www.instagram.com/unisanta_oficial/">Unisanta</a>. <br>
 
-✨ **Fun fact:** I participated in the Hiring Coders 2022, a programming training. My team and I (Dreamscape), got to the finals and won the 1st place with the best project. 
+✨ **Fun facts:** I participated in the Hiring Coders 2022, a programming training. My team and I (Dreamscape), got to the finals and won the 1st place with the best project. 
 <a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"> 
   <img align="center" src="https://img.shields.io/badge/-Click-df6d74" />
 </a>
 <br>
 <br>
-<a href="https://github.com/AleehSophia/technical-books">:open_book:List of read programming books</a>
-
+<img src="https://nadei.42sp.org.br/img/InsigneaP3.png" width="60px">
+I participated in the <a href="https://github.com/AleehSophia/42SP-piscine">C Piscine</a> from <a href="https://www.42sp.org.br/">@42 São Paulo</a> in 2023 February/March.
 <br>
+<br>
+<a href="https://github.com/AleehSophia/technical-books">:open_book:List of read programming books</a>
 <br>
 <br>
 <div align="center">
@@ -26,9 +28,11 @@
   </div>
    <div style="display: inline_block"><br>
     <img align="center" alt="ale-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+     <img align="center" alt="ale-c" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
      <img align="center" alt="ale-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
      <img align="center" alt="ale-Git" height="45" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="ale-vtex" height="60" width="80" src="https://user-images.githubusercontent.com/104858887/183300217-6a364880-ce71-4d4b-8ac5-50011c718542.svg" />
+    <img align="center" alt="ale-vtex" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+     <img align="center" alt="ale-vtex" height="60" width="80" src="https://user-images.githubusercontent.com/104858887/183300217-6a364880-ce71-4d4b-8ac5-50011c718542.svg" />
   </div>
 </div>
 
@@ -47,5 +51,7 @@
 </div>
   
 ## 
-  
+
+<!--
 ![Snake animation](https://github.com/AleehSophia/AleehSophia/blob/output/github-contribution-grid-snake.svg)  
+-->
