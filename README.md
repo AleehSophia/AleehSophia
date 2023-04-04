@@ -1,23 +1,21 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=e4bf7a" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=blueviolet" alt="Profile views" /> </p>
 
 <img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 
-### Hey!!! Welcome to my github.
+### ✌🏻 Hey! 
 
+- 💻 I’m currently studying Software Analysis and Development at <a href="https://www.instagram.com/unisanta_oficial/">Unisanta</a>.
+- ⚙️ I know a little of Java, C, Spring Boot, Git, Shell, VTEX IO and sometimes I adventure myself into HTML, JavaScript and CSS.
 
-📚💻 I’m currently studying Software Analysis and Development at <a href="https://www.instagram.com/unisanta_oficial/">Unisanta</a>. <br>
+✨ **Fun facts:** 
+- 👩‍💻I participated in the Hiring Coders 2022, a programming training. My team and I (Dreamscape), got to the finals and won the 1st place with the best project. 
+<a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"><img align="center" src="https://img.shields.io/badge/-Click-blueviolet" /> </a>
+<br>
 
-✨ **Fun facts:** I participated in the Hiring Coders 2022, a programming training. My team and I (Dreamscape), got to the finals and won the 1st place with the best project. 
-<a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"> 
-  <img align="center" src="https://img.shields.io/badge/-Click-df6d74" />
-</a>
-<br>
-<br>
-<img src="https://nadei.42sp.org.br/img/InsigneaP3.png" width="60px">
-I participated in the <a href="https://github.com/AleehSophia/42SP-piscine">C Piscine</a> from <a href="https://www.42sp.org.br/">@42 São Paulo</a> in 2023 February/March.
-<br>
-<br>
-<a href="https://github.com/AleehSophia/technical-books">:open_book:List of read programming books</a>
+- 🏊🏻‍♀️ I participated in the <a href="https://github.com/AleehSophia/42SP-piscine">C Piscine</a> at <a href="https://www.42sp.org.br/">42 São Paulo</a> in 2023 February/March.
+- 📖 <a href="https://github.com/AleehSophia/technical-books">List of read programming books</a>
+
+<!--
 <br>
 <br>
 <div align="center">
@@ -35,6 +33,7 @@ I participated in the <a href="https://github.com/AleehSophia/42SP-piscine">C Pi
      <img align="center" alt="ale-vtex" height="60" width="80" src="https://user-images.githubusercontent.com/104858887/183300217-6a364880-ce71-4d4b-8ac5-50011c718542.svg" />
   </div>
 </div>
+-->
 
 ##
 <div align="center">
