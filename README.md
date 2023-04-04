@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=blueviolet" alt="Profile views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=blueviolet" alt="Profile views" /> </p>
 
-<img width="35%" align="right" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+<img width="45%" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 
 ### ✌🏻 Hey! 
 
@@ -9,9 +9,7 @@
 
 ✨ **Fun facts:** 
 - 👩‍💻I participated in the Hiring Coders 2022, a programming training. My team and I (Dreamscape), got to the finals and won the 1st place with the best project. 
-<a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"><img align="center" src="https://img.shields.io/badge/-Click-blueviolet" /> </a>
-<br>
-
+<a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"><img align="center" src="https://img.shields.io/badge/-Click-blueviolet" /> </a><br>
 - 🏊🏻‍♀️ I participated in the <a href="https://github.com/AleehSophia/42SP-piscine">C Piscine</a> at <a href="https://www.42sp.org.br/">42 São Paulo</a> in 2023 February/March.
 - 📖 <a href="https://github.com/AleehSophia/technical-books">List of read programming books</a>
 
