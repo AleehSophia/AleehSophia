@@ -4,6 +4,7 @@
 
 ### ✌🏻 Hey! 
 
+- 💻 Full Stack Developer Intern, working with PHP, Laravel, Javascript.
 - 💻 I’m currently studying System Analysis and Development at <a href="https://www.instagram.com/unisanta_oficial/">Unisanta</a>.
 - ⚙️ I know a little of Java, C, Spring Boot, Git, Shell, VTEX IO and sometimes I adventure myself into HTML, JavaScript and CSS.
 - 📖 <a href="https://github.com/AleehSophia/technical-books">List of read programming books</a>
