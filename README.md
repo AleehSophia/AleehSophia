@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=AleehSophia&color=blueviolet" alt="Profile views" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=alessiacasado&color=blueviolet" alt="Profile views" /> </p>
 
 <img width="45%" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 
@@ -7,18 +7,18 @@
 - 💻 Full Stack Developer Intern, working with PHP, Laravel, Javascript.
 - 💻 I’m currently studying System Analysis and Development at <a href="https://www.instagram.com/unisanta_oficial/">Unisanta</a>.
 - ⚙️ I know a little of Java, C, Spring Boot, Git, Shell, VTEX IO and sometimes I adventure myself into HTML, JavaScript and CSS.
-- 📖 <a href="https://github.com/AleehSophia/technical-books">List of read programming books</a>
+- 📖 <a href="https://github.com/alessiacasado/technical-books">List of read programming books</a>
 
 ✨ **Fun facts:** 
 - 👩‍💻I participated in the Hiring Coders 2022, a programming training. My team and I (Dreamscape), got to the finals and won the 1st place with the best project. 
 <a href="https://www.linkedin.com/pulse/como-um-programa-de-capacita%25C3%25A7%25C3%25A3o-causa-impacto-na-do-souza-santos/?trackingId=utvmEOV07yW4coHhTNgB%2Fw%3D%3D" target="_blank"><img align="center" src="https://img.shields.io/badge/-Click-blueviolet" /> </a><br>
-- 🏊🏻‍♀️ I participated in the <a href="https://github.com/AleehSophia/42SP-piscine">C Piscine</a> at <a href="https://www.42sp.org.br/">42 São Paulo</a> in 2023 February/March.
+- 🏊🏻‍♀️ I participated in the <a href="https://github.com/alessiacasado/42SP-piscine">C Piscine</a> at <a href="https://www.42sp.org.br/">42 São Paulo</a> in 2023 February/March.
 <br>
 <div align="center">
   <div align="center">
-    <a href="https://github.com/AleehSophia">
-    <img decoding="async" loading="lazy" height="170em" src="https://github-readme-stats-74zg.vercel.app/api?username=AleehSophia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=AleehSophia&layout=compact&langs_count=10&theme=tokyonight"/>
+    <a href="https://github.com/alessiacasado">
+    <img decoding="async" loading="lazy" height="170em" src="https://github-readme-stats-74zg.vercel.app/api?username=alessiacasado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=alessiacasado&layout=compact&langs_count=10&theme=tokyonight"/>
   </div>
 <!--
    <div style="display: inline_block"><br>
@@ -51,5 +51,5 @@
 <a href='https://ko-fi.com/alessiacasado' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <!--
-![Snake animation](https://github.com/AleehSophia/AleehSophia/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/alessiacasado/alessiacasado/blob/output/github-contribution-grid-snake.svg)  
 -->
